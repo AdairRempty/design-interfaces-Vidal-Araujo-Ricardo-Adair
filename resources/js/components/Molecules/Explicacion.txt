@@ -1,0 +1,8 @@
+Examinando el archivo de Figma de mis compañeros, 
+aunque tienen moleculas, casi nunca las usan para ningun 
+elemento de sus vistas, solo son contenedores que no reutilizan dentro
+de la ruta roja. Por lo que me limite a copiar su diseño lo mas posible que pude.
+
+Pero no pude rescatar una molecula real en este paso. 
+AUNQUE SOY CONSCIENTE DE QUE DEBIERON DE TENER MOLECULAS COMO EL
+NAV BAR.
