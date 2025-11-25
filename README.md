@@ -1,3 +1,9 @@
+<h1> Gran parte de este codigo, mas que nada la logica de php la hice con IA generativa local debido a que esta es la primer materia de Desarrollo WEB que llevo y no tengo el tiempo necesario por mas que lo intente para poder crearlo debidamente, sin embargo las cosas que si pude hacer como los estilos con VUE y lo poco que aprendi de estilos junto con FIGMA fue lo que diseñe usando diseño atomico, para hacer que todo funcione y cuaje fue para lo que use dicha IA.
+
+No tengo el conocimiento previo necesario para hacer esto desde 0 ni con la ayuda de mi compañero.</h1>
+
+<h2>Este trabajo me tomo mas de una semana en preparar debido a tener que rehacer varias veces la misma cosa, porque usando lo aprendido en figma no termina de quedar bien ni funcional aqui, y no hablo unicamente del figma de mis compañeros, nunca habia instalado php, ni laravel ni javascript, asi que tuve que ver muchos tutoriales y despues empezar a crear esto despues de desinstalar una vez php porque lo instale mal. Sencillamente tuve demasiadas dificultades para realiazr este trabajo ya que tampoco he llevado la materia de PC1, y apenas estoy llevando admin 1, por lo que tengo 0 experiencia previa para este proyecto.</h2>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
