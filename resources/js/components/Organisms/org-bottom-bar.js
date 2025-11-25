@@ -48,14 +48,13 @@ export class OrgBottomBar extends HTMLElement {
         }
       </style>
 
-      /*Reutilizacion de codigo de atomos*/
-
       <div class="bar">
         <div class="home-icon">
            <ato-icon name="home" size="24px"></ato-icon>
         </div>
       </div>
     `;
+    /*Reutilizacion de codigo de atomos para crear un nav bar que no existe en el figma como molecula*/
   }
 }
 
