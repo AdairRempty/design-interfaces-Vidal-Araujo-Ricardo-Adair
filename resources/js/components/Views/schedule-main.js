@@ -1,3 +1,10 @@
+/**
+ * @file schedule-main.js
+ * @description Vista principal del flujo de agendamiento.
+ * Presenta la información del tutor y las reseñas, sirviendo como punto de entrada.
+ * @variants
+ *  - show-success: Atributo que activa la visualización de una notificación de éxito.
+ */
 import { globalStyles } from '../styles.js';
 import '../Organisms/cards/org-tutor-card.js';
 import '../Organisms/org-bottom-bar.js';

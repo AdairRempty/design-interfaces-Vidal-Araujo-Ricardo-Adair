@@ -1,3 +1,10 @@
+/**
+ * @file schedule-success.js
+ * @description Vista de confirmación final.
+ * Muestra el resultado de la operación de agendamiento (éxito o error).
+ * @variants
+ *  - No tiene variantes configurables externamente.
+ */
 import { globalStyles } from '../styles.js';
 import '../Organisms/cards/org-tutor-card.js';
 import '../Organisms/org-bottom-bar.js';

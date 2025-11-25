@@ -1,11 +1,14 @@
-import { globalStyles } from '../styles.js';
+/**
+ * @file ato-profile-icon.js
+ * @description Componente de imagen de perfil circular.
+ * Muestra una imagen de usuario o un placeholder por defecto.
+ * @variants
+ *  - img: URL de la imagen de perfil.
+ *  - size: Tamaño del componente (defecto: 45px).
+ */
+import { globalStyles } from '../../styles.js';
 import user from '../Icons/Foto.svg?raw';
 
-/**
- * Componente Atomo: Icono de Perfil
- * Muestra la imagen del usuario dentro de un contenedor circular (esfera).
- * Se utiliza principalmente en las tarjetas de tutor y reseñas.
- */
 export class AtoProfileIcon extends HTMLElement {
   constructor() {
     super();

@@ -1,10 +1,3 @@
-import { globalStyles } from '../styles.js';
-import './ato-icon.js';
-
-/**
- * Componente Atomo: Calificación con Estrellas
- * Permite mostrar y seleccionar una calificación numérica mediante estrellas.
- */
 export class AppStarRating extends HTMLElement {
   constructor() {
     super();

@@ -1,3 +1,14 @@
+/**
+ * @file ato-day-button.js
+ * @description Componente de botón para representar días en un calendario.
+ * Gestiona la visualización de estados de disponibilidad y selección de fechas.
+ * @variants (Estados)
+ *  - available: Día disponible para selección (estilo por defecto).
+ *  - today: Resalta el día actual.
+ *  - disabled: Día no disponible o pasado, no interactuable.
+ *  - used: Día con citas o eventos ya agendados.
+ *  - selected: Día actualmente seleccionado por el usuario.
+ */
 import { globalStyles } from '../../styles.js';
 
 /**

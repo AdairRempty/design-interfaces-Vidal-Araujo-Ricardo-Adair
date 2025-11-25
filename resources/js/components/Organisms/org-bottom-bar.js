@@ -1,3 +1,10 @@
+/**
+ * @file org-bottom-bar.js
+ * @description Barra de navegación inferior.
+ * Proporciona acceso rápido a las secciones principales de la aplicación (Home, Mensajes, Calendario, Perfil).
+ * @variants
+ *  - No tiene variantes configurables externamente.
+ */
 import { globalStyles } from '../styles.js';
 import '../Atoms/ato-icon.js';
 

@@ -1,3 +1,11 @@
+/**
+ * @file org-toast-notification.js
+ * @description Notificación emergente tipo Toast.
+ * Muestra mensajes temporales no intrusivos en la parte superior de la pantalla.
+ * @variants
+ *  - type: Tipo de mensaje (success, error, warning, info).
+ *  - message: Contenido del mensaje a mostrar.
+ */
 import { globalStyles } from '../styles.js';
 import '../Atoms/ato-icon.js';
 

@@ -1,3 +1,12 @@
+/**
+ * @file ato-button-medium.js
+ * @description Componente de botón de tamaño mediano.
+ * Similar al botón estándar pero con dimensiones ajustadas para contextos específicos.
+ * @variants
+ *  - primary: Botón sólido con el color primario.
+ *  - secondary: Botón sólido con el color secundario.
+ *  - ghost: Botón con fondo transparente y borde.
+ */
 import { globalStyles, fontImport } from '../../styles.js';
 import '../ato-icon.js';
 

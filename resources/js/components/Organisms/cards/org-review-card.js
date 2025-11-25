@@ -1,3 +1,10 @@
+/**
+ * @file org-review-card.js
+ * @description Tarjeta de reseña de usuario.
+ * Muestra el comentario, calificación y datos del usuario que dejó la reseña.
+ * @variants
+ *  - No tiene variantes visuales, adapta su contenido dinámicamente.
+ */
 import { globalStyles } from '../../styles.js';
 import '../../Atoms/ato-star-rating.js';
 import '../../Atoms/ato-icon.js';

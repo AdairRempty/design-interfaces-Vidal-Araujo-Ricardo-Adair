@@ -1,3 +1,10 @@
+/**
+ * @file org-calendar-modal.js
+ * @description Modal de calendario para selección de fechas.
+ * Permite al usuario navegar entre meses y seleccionar un día disponible para la tutoría.
+ * @variants
+ *  - No tiene variantes configurables externamente.
+ */
 import { globalStyles } from '../styles.js';
 import '../Atoms/Buttons/ato-button.js';
 import '../Atoms/Buttons/ato-day-button.js';

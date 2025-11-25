@@ -1,3 +1,14 @@
+/**
+ * @file ato-icon.js
+ * @description Componente de icono SVG reutilizable.
+ * Gestiona la renderización de iconos SVG importados y permite personalización.
+ * @variants
+ *  - name: Nombre del icono a mostrar (star-filled, star-empty, user, search, etc.).
+ *  - size: Tamaño del icono (defecto: 24px).
+ *  - color: Color del icono (defecto: currentColor).
+ *  - state: Estilo del contenedor si with-background está activo (primary, secondary, disabled).
+ *  - with-background: Booleano para mostrar el icono dentro de un contenedor con fondo.
+ */
 import { globalStyles } from '../styles.js';
 import starFilled from '../Icons/Estrella Rellena.svg?raw';
 import starEmpty from '../Icons/Estrella Vacia.svg?raw';

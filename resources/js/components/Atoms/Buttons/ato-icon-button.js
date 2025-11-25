@@ -1,3 +1,12 @@
+/**
+ * @file ato-icon-button.js
+ * @description Botón rectangular que combina un texto y un icono opcional.
+ * Utilizado para acciones principales que requieren énfasis visual e iconografía.
+ * @variants
+ *  - primary: Fondo primario, texto claro.
+ *  - secondary: Fondo blanco, borde y texto primario.
+ *  - disabled: Estado deshabilitado no interactuable.
+ */
 import { globalStyles } from '../../styles.js';
 import '../ato-icon.js';
 

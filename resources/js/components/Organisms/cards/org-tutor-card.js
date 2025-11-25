@@ -1,3 +1,10 @@
+/**
+ * @file org-tutor-card.js
+ * @description Tarjeta de información del tutor.
+ * Muestra detalles clave del tutor como nombre, especialidad, tarifa y calificación.
+ * @variants
+ *  - selected: Atributo booleano que indica si la tarjeta está seleccionada (cambia el borde).
+ */
 import { globalStyles } from '../../styles.js';
 import '../../Atoms/ato-star-rating.js';
 import '../../Atoms/ato-icon.js';

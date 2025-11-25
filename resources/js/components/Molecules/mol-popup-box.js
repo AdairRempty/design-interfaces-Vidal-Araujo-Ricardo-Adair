@@ -1,3 +1,13 @@
+/**
+ * @file mol-popup-box.js
+ * @description Componente molecular de cuadro emergente (Popup).
+ * Utilizado para mostrar mensajes de confirmación, éxito o error que requieren acción del usuario.
+ * @variants
+ *  - state: Define el estilo y el icono (success, error).
+ *  - title: Título del popup.
+ *  - message: Mensaje descriptivo.
+ *  - button-text: Texto del botón de acción.
+ */
 import { globalStyles } from '../styles.js';
 import '../Atoms/Buttons/ato-button-medium.js';
 import '../Atoms/ato-icon.js';

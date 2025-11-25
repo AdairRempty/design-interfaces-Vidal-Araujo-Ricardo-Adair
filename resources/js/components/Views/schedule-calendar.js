@@ -1,3 +1,10 @@
+/**
+ * @file schedule-calendar.js
+ * @description Vista de selección de fecha y confirmación.
+ * Integra el calendario y los diálogos de confirmación para finalizar la reserva.
+ * @variants
+ *  - No tiene variantes de visualización externas, maneja su propio estado interno.
+ */
 import { globalStyles } from '../styles.js';
 import '../Organisms/cards/org-tutor-card.js';
 import '../Organisms/org-bottom-bar.js';

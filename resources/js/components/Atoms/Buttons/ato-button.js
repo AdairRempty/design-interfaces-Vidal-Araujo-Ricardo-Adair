@@ -1,3 +1,14 @@
+/**
+ * @file ato-button.js
+ * @description Componente de botón estándar reutilizable para la aplicación.
+ * Permite la interacción del usuario a través de diferentes estilos visuales.
+ * @variants
+ *  - primary: Botón sólido con el color primario de la marca.
+ *  - secondary: Botón sólido con el color secundario.
+ *  - ghost: Botón con fondo transparente y borde primario.
+ *  - text: Botón sin fondo ni borde, similar a un enlace.
+ *  - icon-only: Botón cuadrado diseñado para contener solo un icono.
+ */
 import { globalStyles, fontImport } from '../../styles.js';
 import '../ato-icon.js';
 
